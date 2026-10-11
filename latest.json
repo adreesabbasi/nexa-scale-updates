@@ -1,8 +1,8 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "date": "2026-10-11",
-  "notes": "Final 1.0.7: manual bonus (free packs) per line, e.g. 10 + 2, on POS, Walk-in and Purchase, with stock, cost, printing (Qty + Bonus, English + Urdu), packing sheet and a Bonus Report. Bank-teller Cash Receiving: yesterday's bills by default, payment modes, live totals, note counter, collection sheet / deposit slip per order taker. Connect Client PCs guide with connection code + QR. Developer credit with WhatsApp Support.",
-  "downloadUrl": "https://github.com/adreesabbasi/nexa-scale-updates/releases/download/v1.0.7/NEXA-SCALE-Retail-Pro-Setup-1.0.7.exe",
-  "sha256": "7ca745130bd7858693b41bdb72736874a84904a5b4afcce34f76cb4699e28bf6",
+  "notes": "1.0.8: background server as a Windows service, stronger data safety (no lost or duplicate saves, crash-safe drafts, automatic database recovery), backup health indicator + Dropbox + restore from any folder/USB/cloud, fits 1024x600 to 4K with zoom, safe factory reset, new A4 print engine (page X of Y, auto landscape, preview = print), area filter and print selected for invoices, redesigned Purchase and a new Suppliers page.",
+  "downloadUrl": "https://github.com/adreesabbasi/nexa-scale-updates/releases/download/v1.0.8/NEXA-SCALE-Retail-Pro-Setup-1.0.8.exe",
+  "sha256": "620b87359af831d95fb3749d024cffaecd7a2cbf7ed24223ac6e76636bbe83de",
   "page": "https://github.com/adreesabbasi/nexa-scale-updates/releases/latest"
 }
