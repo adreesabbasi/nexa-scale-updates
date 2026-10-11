@@ -1,8 +1,8 @@
 {
-  "version": "1.0.6",
-  "date": "2026-10-09",
-  "notes": "Today's Orders fixed (every shop invoice of the day, with or without order taker). Edit / Delete invoices with reason + activity log. Receive Cash loads unpaid bills by itself. New Receivables / Recovery list. Separate Walk-in / Counter POS. Credit limit + max days, owner dashboard, delivery returns, order-taker targets & commission, smart stock, batch / expiry (FEFO), profit reports, routes & shop map, Urdu printing, automatic daily summary, audit log, free trial and update check.",
-  "downloadUrl": "https://github.com/adreesabbasi/nexa-scale-updates/releases/download/v1.0.6/NEXA-SCALE-Retail-Pro-Setup-1.0.6.exe",
-  "sha256": "a5415067cf6419b766b9763a5984c0a0982c0378eda3113b60e4b4238ec875cd",
+  "version": "1.0.7",
+  "date": "2026-10-11",
+  "notes": "Final 1.0.7: manual bonus (free packs) per line, e.g. 10 + 2, on POS, Walk-in and Purchase, with stock, cost, printing (Qty + Bonus, English + Urdu), packing sheet and a Bonus Report. Bank-teller Cash Receiving: yesterday's bills by default, payment modes, live totals, note counter, collection sheet / deposit slip per order taker. Connect Client PCs guide with connection code + QR. Developer credit with WhatsApp Support.",
+  "downloadUrl": "https://github.com/adreesabbasi/nexa-scale-updates/releases/download/v1.0.7/NEXA-SCALE-Retail-Pro-Setup-1.0.7.exe",
+  "sha256": "7ca745130bd7858693b41bdb72736874a84904a5b4afcce34f76cb4699e28bf6",
   "page": "https://github.com/adreesabbasi/nexa-scale-updates/releases/latest"
 }
