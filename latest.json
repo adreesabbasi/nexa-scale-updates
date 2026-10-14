@@ -1,8 +1,8 @@
 {
-  "version": "1.0.8",
-  "date": "2026-10-11",
-  "notes": "1.0.8: background server as a Windows service, stronger data safety (no lost or duplicate saves, crash-safe drafts, automatic database recovery), backup health indicator + Dropbox + restore from any folder/USB/cloud, fits 1024x600 to 4K with zoom, safe factory reset, new A4 print engine (page X of Y, auto landscape, preview = print), area filter and print selected for invoices, redesigned Purchase and a new Suppliers page.",
-  "downloadUrl": "https://github.com/adreesabbasi/nexa-scale-updates/releases/download/v1.0.8/NEXA-SCALE-Retail-Pro-Setup-1.0.8.exe",
-  "sha256": "620b87359af831d95fb3749d024cffaecd7a2cbf7ed24223ac6e76636bbe83de",
+  "version": "1.0.9",
+  "date": "2026-10-14",
+  "notes": "1.0.9: import old GS TradePro Access files on a new install (creates the business from the file; fixes 'No business found'), add businesses without selecting one first (also in Settings), Back/Cancel/Save always visible with sticky footers at every resolution and Windows scaling, 14-day free trial with no key prompt at startup and a days-left banner.",
+  "downloadUrl": "https://github.com/adreesabbasi/nexa-scale-updates/releases/download/v1.0.9/NEXA-SCALE-Retail-Pro-Setup-1.0.9.exe",
+  "sha256": "0cf7ee3470380e7fafb5a98b3e1cc72399fbbcac081a209b0e711c7e2277b06f",
   "page": "https://github.com/adreesabbasi/nexa-scale-updates/releases/latest"
 }
